@@ -3,16 +3,16 @@ Digital Electronics LAB,Student who's background from "computer science, Electro
 ## Aim of this project
  To create Digital Efrlectronics lab for easy access to the students .
 ## Overview
-* The project deals interfacing there labs
-* Firstly student need to there NAME.
+* The project deals with the interfacing of Digital Electronics labs
+* Firstly student need to enter the NAME.
 * It contains list of experiments to do by students.
 * Then select first experiment to do.
 * Now select second experiment to do.
-* iF first complete it goes to second other wise not getting second experimrnt.
+* If first complete it goes to second other wise not getting second experimrnt.
 * After completion it shows lab experiments is completed
 ## Requirements 
 * It requires student name
-* list of experiments we implement.
+* list of the experiments we implement.
 ## Features
-* It gives basic idea of digital electronics lab.
+* It gives basic idea about the digital electronics lab.
 * sudent capable to understand why this lab to use.
