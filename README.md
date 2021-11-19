@@ -1,5 +1,5 @@
 # M1_Application_Del_Lab
-Digital Electronics LAB,Student who's background from "computer science, Electronics,Electrical ".They definetely go through digital electronics lab in their Engineering.But some students who joined college's in covid pandemic they don't access their labs .So, i think this useful to students access from  home using  there  laptops or mobiles.q
+Digital Electronics LAB,Student who's background from "computer science, Electronics,Electrical ".They definetely go through digital electronics lab in their Engineering.But some students who joined college's in covid pandemic they don't access their labs .So, i think this useful to students access from  home using  there  laptops or mobiles.
 ## Aim of this project
  To create Digital Efrlectronics lab for easy access to the students .
 ## Overview
