@@ -15,4 +15,4 @@ Digital Electronics LAB,Student who's background from "computer science, Electro
 * list of the experiments we implement.
 ## Features
 * It gives basic idea about the digital electronics lab.
-* sudent capable to understand why this lab to use.
+* student capable to understand why this lab to use.
