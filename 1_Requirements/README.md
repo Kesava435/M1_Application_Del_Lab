@@ -8,4 +8,4 @@ Digital Electronics LAB ,Student who's background from "computer science, Electr
 student can understand for what purpose they do ,why they learn,where to apply ,whom to they share knowledge
 # High level requirements
 * list of experiments
-* after completition of previous experiment they go to next experiment
+* after completition of previous experiment then go to next experiment
