@@ -5,7 +5,11 @@ Digital Electronics LAB ,Student who's background from "computer science, Electr
 * It completes shows list of experiments.
 * throught experiments student can learn basics of the subject.
 # 4W'S and 1H
-student can understand for what purpose they do ,why they learn,where to apply ,whom to they share knowledge
+student can understand for what purpose they do ,why they learn,where to apply ,whom to they share knowledge,How to use
 # High level requirements
 * list of experiments
-* after completition of previous experiment then go to next experiment
+* after completition of previous experiment then go to next experiment.
+* only binary inputs is given.
+# low level requirements
+* No need of  CS,EC,EE student.
+* remember of the concepts.
