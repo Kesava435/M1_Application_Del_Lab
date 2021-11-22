@@ -1,0 +1,229 @@
+
+        welcomr to lab
+
+ enter the student name: kesavakumar
+
+ list of experiments
+
+         1.AND gate
+         2.OR gate
+         3.NOT gate
+         4.NAND gate
+         5.NOR gate
+ first experiment of the lab
+
+            AND GATE
+
+ enter the '0' or '1' of a:
+1
+
+ enter the '0' or '1' of a:
+0
+
+ enter the '0' or '1' of a:
+1
+
+ enter the '0' or '1' of a:
+0 
+
+ enter the '0' or '1' of a:
+1
+
+ enter the '0' or'1' of b:
+1
+
+ enter the '0' or'1' of b:
+0
+
+ enter the '0' or'1' of b:
+1
+
+ enter the '0' or'1' of b:
+0
+
+ enter the '0' or'1' of b:
+1
+
+ 1 AND 1 = 1
+
+ 0 AND 0 = 0
+
+ 1 AND 1 = 1
+
+ 0 AND 0 = 0
+
+ 1 AND 1 = 1
+
+ please take input as '1' to do second experiment  :
+1
+
+ second experiment of the lab
+
+        OR GATE
+
+ enter the '0'or '1' of a:
+1
+
+ enter the '0'or '1' of a:
+1
+
+ enter the '0'or '1' of a:
+0
+
+ enter the '0'or '1' of a:
+1
+
+ enter the '0'or '1' of a:
+0
+
+ enter the '0' or'1' of b:
+1
+
+ enter the '0' or'1' of b:
+0
+
+ enter the '0' or'1' of b:
+1
+
+ enter the '0' or'1' of b:
+1
+
+ enter the '0' or'1' of b:
+1
+
+ 1 OR 1 = 1
+
+ 1 OR 0 = 1
+
+ 0 OR 1 = 1
+
+ 1 OR 1 = 1
+
+ 0 OR 1 = 1
+
+please take input as '1' to do third experiment  :
+1
+
+ third experiment of the lab
+
+           NOT GATE
+
+ enter the input:
+0
+
+ enter the input:
+1
+
+ enter the input:
+2
+
+ enter the input:
+1
+
+ enter the input:
+1
+
+  NOT 0 = 1
+
+  NOT 1 = 0
+
+  NOT 2 = 0
+
+  NOT 1 = 0
+
+  NOT 1 = 0
+please take input as '1' to do fourth  experiment  :
+1
+fourth experiment of the lab
+
+             NAND GATE
+
+ enter the '0'or '1' of a:
+1
+
+ enter the '0'or '1' of a:
+0
+
+ enter the '0'or '1' of a:
+1
+
+ enter the '0'or '1' of a:
+0
+
+ enter the '0'or '1' of a:
+1
+
+ enter the '0' or'1' of b:
+0
+
+ enter the '0' or'1' of b:
+1
+
+ enter the '0' or'1' of b:
+0
+
+ enter the '0' or'1' of b:
+1
+
+ enter the '0' or'1' of b:
+0
+
+ 1 NAND 0 = 1
+
+ 0 NAND 1 = 1
+
+ 1 NAND 0 = 1
+
+ 0 NAND 1 = 1
+
+ 1 NAND 0 = 1
+
+please take input as '1' to do fifth experiment  :
+ 1
+ fifth experiment of the lab
+
+          NOR GATE
+
+ enter the '0'or '1' of a:
+1
+
+ enter the '0'or '1' of a:
+1
+
+ enter the '0'or '1' of a:
+0
+
+ enter the '0'or '1' of a:
+0
+
+ enter the '0'or '1' of a:
+0
+
+ enter the '0' or'1' of b:
+0
+
+ enter the '0' or'1' of b:
+1
+
+ enter the '0' or'1' of b:
+1
+
+ enter the '0' or'1' of b:
+1
+
+ enter the '0' or'1' of b:
+1
+
+ 1 NOR 0 = 0
+
+ 1 NOR 1 = 0
+
+ 0 NOR 1 = 0
+
+ 0 NOR 1 = 0
+
+ 0 NOR 1 = 0
+
+     END OF THE LAB
+
+      THANK YOU
