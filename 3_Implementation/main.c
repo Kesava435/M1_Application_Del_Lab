@@ -27,11 +27,13 @@ int main()
    printf(" %d\n",result);
    
   }
- }}
+ }
+  }
  int x2;
     printf("\n please take input as '1' to do second experiment  :   \n");
     scanf("%d",&x2);
-    if(x2==1&&x1==1){
+    if(x2==1&&x1==1)
+    {
         printf("\n    second experiment of the lab\n          \n OR GATE \n");
    printf("\nA   B  |  output\n");
     for(i=0;i<2;i++)
@@ -44,7 +46,8 @@ int main()
    printf(" %d\n",ans);
   
   }
- }}
+ }
+ }
  int x3;
       printf("\nplease take input as '1' to do third experiment  :   \n");
       scanf("%d",&x3);
@@ -62,7 +65,8 @@ int main()
   int x4;
     printf("please take input as '1' to do fourth  experiment  :   \n");
     scanf("%d",&x4);
-    if(x4==1 && x3==1){
+    if(x4==1 && x3==1)
+    {
         printf("\n    Fourth experiment of the lab\n          \n NAND GATE \n");
   printf("\nA   B  |  output\n");
  for(i=0;i<2;i++)
@@ -74,13 +78,14 @@ int main()
    printf("%d   %d  |  ",i,j);
    printf(" %d\n",result);
     }
-    }}
+    }
+    }
     int x5;
      printf("\nplease take input as '1' to do fifth experiment  :  \n ");
      scanf("%d",&x5);
      if (x4==1&& x5==1){
          printf("\n   Fifth experiment of the lab\n          \n NOR GATE \n");
-    
+    // final experiment
     printf("\nA   B  |  output\n");
     for(i=0;i<2;i++)
      {
@@ -92,7 +97,8 @@ int main()
          printf(" %d\n",result);
    
          }
-     }}
+     }
+     }
      printf("\nEND OF THE LAB\n");
      printf("\n ******* THANK YOU *********\n");
 
