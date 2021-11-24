@@ -16,3 +16,12 @@ Digital Electronics LAB,Student who's background from "computer science, Electro
 ## Features
 * It gives basic idea about the digital electronics lab.
 * student capable to understand why this lab to use.
+# INSTALLATION SET UP
+ 
+ ## Software Setup for hands on practice:
+·         Linux OS (Dual boot or Virtual box or Windows Subsystem for Linux)
+
+·         Tools on Windows and Linux
+
+    * Windows OS: MiniProject_Template/Windows_Setup.md
+    * Linux OS: MiniProject_Template/Linux_Setup.md
