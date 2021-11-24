@@ -1,4 +1,5 @@
 [![CI](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/main.yml/badge.svg)](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/main.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/c-cpp.yml)
 # M1_Application_Del_Lab
 Digital Electronics LAB,Student who's background from "computer science, Electronics,Electrical ".They definetely go through digital electronics lab in their Engineering.But some students who joined college's in covid pandemic they don't access their labs .So, i think this useful to students access from  home using  there  laptops or mobiles.
 ## Aim of this project
