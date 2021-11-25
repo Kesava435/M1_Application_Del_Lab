@@ -4,6 +4,7 @@
 [![Contribution Check - Git Inspector](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/gitinspector.yml)
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/valgrid.yml/badge.svg)](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/valgrid.yml)
 [![Linux C/C++ CI](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/linux.yml/badge.svg)](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/linux.yml)
+[![Windows C/C++ CI](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/windows.yml/badge.svg)](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/windows.yml)
 # M1_Application_Del_Lab
 Digital Electronics LAB,Student who's background from "computer science, Electronics,Electrical ".They definetely go through digital electronics lab in their Engineering.But some students who joined college's in covid pandemic they don't access their labs .So, i think this useful to students access from  home using  there  laptops or mobiles.
 ## Aim of this project
