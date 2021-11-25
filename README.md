@@ -1,3 +1,4 @@
+| code badge |
 [![Code Quality - Static Code - Cppcheck](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/c-cpp.yml)
 [![C/C++ CI UnitTesting](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/unity.yml/badge.svg)](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/unity.yml)
 [![Contribution Check - Git Inspector](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/gitinspector.yml)
