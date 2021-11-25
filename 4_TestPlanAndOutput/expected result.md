@@ -1,8 +1,5 @@
 ## AND gate expected truth table
 ![image](https://user-images.githubusercontent.com/94446387/143380154-fbea54d8-c5f7-4461-85db-26cf33155a1c.png)
-## actual output
-4_TestPlanAndOutput/output.JPG
-
 
 ## OR gate expected trutth table
 ![image](https://user-images.githubusercontent.com/94446387/143379936-3f4def98-2512-4984-a1f4-354336cf1be8.png)
