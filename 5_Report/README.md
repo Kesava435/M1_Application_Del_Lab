@@ -1,1 +1,3 @@
-
+# APPLICATION FOR DIGITAL ELECTRONICS LAB
+## Aim of the project
+ 
