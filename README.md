@@ -31,7 +31,7 @@ Digital Electronics LAB,Student who's background from "computer science, Electro
 ## Features
 * It gives basic idea about the digital electronics lab.
 * student capable to understand why this lab to use.
-# INSTALLATION SET UP
+
 # Folder Structure
 |FOLDER|DESCRIPTION|
 |:-----|:----------|
@@ -42,7 +42,9 @@ Digital Electronics LAB,Student who's background from "computer science, Electro
 |`5_Report`|Generated Report|
 |`6 ImagesandVideos`|All the images and program execution video|
 |`7_Other`|other information|
- 
+
+
+ # INSTALLATION SET UP
  ## Software Setup for hands on practice:
 ·         Linux OS (Dual boot or Virtual box or Windows Subsystem for Linux)
 
