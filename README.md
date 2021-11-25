@@ -32,6 +32,16 @@ Digital Electronics LAB,Student who's background from "computer science, Electro
 * It gives basic idea about the digital electronics lab.
 * student capable to understand why this lab to use.
 # INSTALLATION SET UP
+# Folder Structure
+|FOLDER|DESCRIPTION|
+|:-----|:----------|
+|`1_Requirements`|Documents detailing requirements|
+|`2 Architecture`|Structural and Behavioural UML|
+|`3_Implementation`|All the code is written here|
+|`4 TestPlanAndOutput`|Documents with test plans and outputs|
+|`5_Report`|Generated Report|
+|`6 ImagesandVideos`|All the images and program execution video|
+|`7_Other`|other information|
  
  ## Software Setup for hands on practice:
 ·         Linux OS (Dual boot or Virtual box or Windows Subsystem for Linux)
