@@ -12,6 +12,7 @@
 [![Windows C/C++ CI](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/windows.yml/badge.svg)](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/windows.yml)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e3c01e27ee8d495987299e4e6408627f)](https://www.codacy.com/gh/Kesava435/M1_Application_Del_Lab/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kesava435/M1_Application_Del_Lab&amp;utm_campaign=Badge_Grade)
+[![CI](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/ccp.yml/badge.svg)](https://github.com/Kesava435/M1_Application_Del_Lab/actions/workflows/ccp.yml)
 # M1_Application_Del_Lab
 Digital Electronics LAB,Student who's background from "computer science, Electronics,Electrical ".They definetely go through digital electronics lab in their Engineering.But some students who joined college's in covid pandemic they don't access their labs .So, i think this useful to students access from  home using  there  laptops or mobiles.
 ## Aim of this project
