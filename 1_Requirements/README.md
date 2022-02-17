@@ -17,10 +17,18 @@ student can understand for what purpose they do ,why they learn,where to apply ,
  * our lab is flexible to use in windows and linux environemt.
  ## THREATS
  * This is the basic implement it is like protype.
-# High level requirements
-* list of experiments
-* after completition of previous experiment then go to next experiment.
-* only binary inputs is given.
-# low level requirements
-* No need of  CS,EC,EE student.
-* remember of the concepts.
+# High Level Requirements
+|ID	|Description	|Status|
+|:--:|:--:|:--:|
+|HLR_1	|The user can implement AND gate|	Implemented
+|HLR_2	|The user can implement OR gate|	Implemented|
+|HLR_3	|The user can implement NAND  gate|	Implemented|
+|HLR_4|	The user can implement NOR gate	|Implemented|
+|HLR_5|	The user can implement NOT gate	|Implemented|
+
+# Low Level Requirements
+|ID	|Description	|Status|
+|:--:|:--:|:--:|
+|LLR_1|	List of operations displayed	|Implemented|
+|LLR_2	|Input from the user	|Implemented|
+|LLR_3	|Exit the program	|Implemented|
